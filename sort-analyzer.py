@@ -3,6 +3,8 @@
 import time
 
 # RETURN DATA FROM FILE AS AN ARRAY OF INTERGERS
+
+
 def loadDataArray(fileName):
     temp = []
 
